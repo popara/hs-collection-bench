@@ -1,4 +1,4 @@
-# fairinsight
+# Testing actual speed of Haskell Collectionns
 
 Incorrect attempt at benchmarking collections.
 
